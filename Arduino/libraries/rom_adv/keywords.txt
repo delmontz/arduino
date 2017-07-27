@@ -1,0 +1,15 @@
+rom_adv	KEYWORD1
+f_Write	KEYWORD2
+i_Write	KEYWORD2
+ui_Write	KEYWORD2
+w_Write	KEYWORD2
+l_Write	KEYWORD2
+ul_Write	KEYWORD2
+s_Write	KEYWORD2
+f_Read	KEYWORD2
+i_Read	KEYWORD2
+ui_Read	KEYWORD2
+w_Read	KEYWORD2
+l_Read	KEYWORD2
+ul_Read	KEYWORD2
+s_Read	KEYWORD2
